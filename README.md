@@ -1,3 +1,27 @@
+# Destination Search Project
+
+A simple and interactive web application to **search and explore destinations**. Built using **React.js**, this project allows users to browse through a list of destinations and view details in a user-friendly interface.
+
+## Features
+- Search for destinations easily.
+- Responsive grid layout of destinations.
+- Clean and modern UI design.
+
+## How I Built It
+- **React.js** for building the frontend components.
+- **CSS Flexbox** for responsive layout (`.destinations-list` for grid styling).
+- State management using React class to handle search and filtering.
+- Modular component structure for better maintainability.
+
+## Project Link
+Check out the live project here: [Destination Search](https://bibdestsrch.ccbp.tech/)
+
+## Installation
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/bibhuti-parida/destination-search.git
+
+
 In this project, let's build a **Destination Search** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
